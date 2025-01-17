@@ -1,6 +1,6 @@
 # All_git_commands-
 
-# Git Commands for Developers (Hinglish)
+# Git Commands for Developers 
 
 Yeh document un Git commands ko explain karta hai jo aapko ek Git repository ko manage karne ke liye zaroori hoti hain. Yeh commands daily development work ke liye kaafi useful hain.
 
