@@ -143,7 +143,3 @@ Yeh document un Git commands ko explain karta hai jo aapko ek Git repository ko 
 - **Description**: Ye command current branch ko last commit pe reset kar deta hai aur saare local changes discard kar deta hai.
 
 ---
-
-## Conclusion
-
-Yeh Git commands aapko apne Git repositories ko efficiently manage karne me madad karenge. Inhe use karke aap apne development workflow ko streamline kar sakte hain aur team ke saath achhe se collaborate kar sakte hain.
